@@ -10,3 +10,4 @@ Avoid obstacles on the building and reach the finish line!
 
 # GamePlay : https://drive.google.com/file/d/1ZTBF285k20hOO8uALltJ3Q7Qo4hXuTVy/view
 
+# Note: It will not work when you download it. Because I have to remove paid Assets.
